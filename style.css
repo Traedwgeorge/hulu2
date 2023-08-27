@@ -295,12 +295,28 @@ main {
     padding: 150px 15px;
   }
 
+  .duo-mobile button {
+    width: 160;
+  }
+
   header {
     height: 100vh;
   }
 }
 
+@media only screen and (max-width: 425px) {
+  .middle-header-mobile {
+    padding: 200px 15px;
+  }
 
+  .duo-mobile button {
+    color: #000;
+  }
+
+  .duo-mobile button {
+    color: #000;
+  }
+}
 
 
 
